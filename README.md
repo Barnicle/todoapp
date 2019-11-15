@@ -1,2 +1,1 @@
-# todoapp
-Simple todo App
+ToDo application
